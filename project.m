@@ -97,4 +97,3 @@ fprintf('Initial Stock Price: %.2f\n', S0);
 fprintf('Expected Stock Price after %.1f year: %.2f\n', T, mean(final_prices));
 fprintf('Probability Stock > %.2f: %.2f%%\n', target_price, prob*100); 
 
-%%%"Added project.m MATLAB code”%%%%
